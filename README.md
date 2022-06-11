@@ -1,5 +1,6 @@
 - 👋 The official Lobby3 DAO Community Repository
-- 💞️ Gitcoin: https://gitcoin.co/grants/5900/lobby3-dao-bringing-the-voices-of-web3-to-washing
+- 💞️ Gitcoin Grant: https://gitcoin.co/grants/5900/lobby3-dao-bringing-the-voices-of-web3-to-washing
+- 💞️ Gitcoin Profile: https://gitcoin.co/lobby3dao
 - 📫 Twitter: https://twitter.com/Lobby3D
 - Verification: See official post on Lobby3 Discourse forum https://community.lobby3.io/t/official-community-github/286 . 
 - Feel free to message any of the mods for further questions
